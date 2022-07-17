@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+        package="com.android.internal.display.cutout.emulation.n3o.oneplus.op8t"
+        android:versionCode="1"
+        android:versionName="1.0"
+		android:compileSdkVersion="32" 
+		android:compileSdkVersionCodename="12"
+		platformBuildVersionCode="32"
+		platformBuildVersionName="12">
+	<uses-sdk
+		android:minSdkVersion="32"
+		android:targetSdkVersion="32"/>
+    <overlay android:targetPackage="android"
+        android:category="com.android.internal.display_cutout_emulation"
+        android:priority="1"/>
+    <application android:label="@string/display_cutout_emulation_overlay"
+		android:hasCode="false"
+		android:extractNativeLibs="false"/>
+</manifest>
