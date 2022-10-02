@@ -8,6 +8,7 @@
     <!--dimen name="statusbar_padding_start">164px</dimen-->
     <!--dimen name="notch_hole_type_status_bar_padding_top">24px</dimen-->
     <!--dimen name="status_bar_height_default">28px</dimen-->
-    <dimen name="status_bar_height_portrait">104px</dimen>
+    <!--dimen name="status_bar_height_portrait">104px</dimen-->
+    <dimen name="status_bar_height_portrait">130px</dimen>
 
 </resources>
