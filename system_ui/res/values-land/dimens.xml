@@ -5,8 +5,10 @@
 -->
 <resources>
 
-    <dimen name="status_bar_padding_top">0px</dimen>
-    <dimen name="status_bar_height_default">28dp</dimen>
-    <dimen name="status_bar_height_landscape">28dp</dimen>
+    <!--dimen name="status_bar_padding_top">0px</dimen-->
+    <dimen name="status_bar_padding_start">48px</dimen>
+    <dimen name="status_bar_padding_end">48px</dimen>
+    <!--dimen name="status_bar_height_default">28dp</dimen-->
+    <!--dimen name="status_bar_height_landscape">28dp</dimen-->
 
 </resources>
