@@ -12,7 +12,7 @@
     <string name="config_mainBuiltInDisplayCutout">
         M 0,0
         H 164
-        V 1
+        V 0
         H 0
         Z @left
     </string>
