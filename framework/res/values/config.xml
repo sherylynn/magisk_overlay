@@ -2,10 +2,17 @@
     <bool name="config_fillMainBuiltInDisplayCutout">false</bool>
 
     <!--string name="config_mainBuiltInDisplayCutout">M 0 0 h 130 v 1 h -130 Z @left</string-->
-    <string name="config_mainBuiltInDisplayCutout">
+    <!--string name="config_mainBuiltInDisplayCutout">
         M 0,0
         H 164
         V 102.5
+        H 0
+        Z @left
+    </string-->
+    <string name="config_mainBuiltInDisplayCutout">
+        M 0,0
+        H 164
+        V 1
         H 0
         Z @left
     </string>
