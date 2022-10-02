@@ -7,8 +7,8 @@
 
     <dimen name="statusbar_padding_start">164px</dimen>
     <dimen name="statusbar_hole_type_padding_left">164px</dimen>
-    <dimen name="statusbar_padding_end">48px</dimen>
-    <dimen name="status_bar_padding_top">36px</dimen>
+    <dimen name="statusbar_padding_end">36px</dimen>
+    <dimen name="status_bar_padding_top">30px</dimen>
     <!--dimen name="statusbar_padding_start">164px</dimen-->
     <!--dimen name="notch_hole_type_status_bar_padding_top">24px</dimen-->
     <!--dimen name="status_bar_height_default">28px</dimen-->
