@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+        package="com.android.internal.display.cutout.emulation.systemui.oneplus.op8t"
+        android:versionCode="1"
+        android:versionName="1.0"
+		android:compileSdkVersion="32" 
+		android:compileSdkVersionCodename="12"
+		platformBuildVersionCode="32"
+		platformBuildVersionName="12">
+	<uses-sdk
+		android:minSdkVersion="32"
+		android:targetSdkVersion="32"/>
+    <overlay android:targetPackage="com.android.systemui"
+			android:priority="1"
+			android:isStatic="true" />
+    <application 
+		android:extractNativeLibs="false"/>
+</manifest>
